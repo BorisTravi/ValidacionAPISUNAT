@@ -1,0 +1,50 @@
+C:\Users\SOPORTE2\source\repos\WebapiSunat\WebapiSunat\bin\Debug\WebapiSunat.exe.config
+C:\Users\SOPORTE2\source\repos\WebapiSunat\WebapiSunat\bin\Debug\WebapiSunat.exe
+C:\Users\SOPORTE2\source\repos\WebapiSunat\WebapiSunat\bin\Debug\WebapiSunat.pdb
+C:\Users\SOPORTE2\source\repos\WebapiSunat\WebapiSunat\bin\Debug\RestSharp.dll
+C:\Users\SOPORTE2\source\repos\WebapiSunat\WebapiSunat\bin\Debug\RestSharp.xml
+C:\Users\SOPORTE2\source\repos\WebapiSunat\WebapiSunat\obj\Debug\WebapiSunat.Properties.Resources.resources
+C:\Users\SOPORTE2\source\repos\WebapiSunat\WebapiSunat\obj\Debug\WebapiSunat.csproj.GenerateResource.cache
+C:\Users\SOPORTE2\source\repos\WebapiSunat\WebapiSunat\obj\Debug\WebapiSunat.csproj.CopyComplete
+C:\Users\SOPORTE2\source\repos\WebapiSunat\WebapiSunat\obj\Debug\WebapiSunat.exe
+C:\Users\SOPORTE2\source\repos\WebapiSunat\WebapiSunat\obj\Debug\WebapiSunat.pdb
+C:\Users\SOPORTE2\source\repos\WebapiSunat\WebapiSunat\obj\Debug\WebapiSunat.frmValidarDocumentoSunat.resources
+C:\Users\SOPORTE2\source\repos\WebapiSunat\WebapiSunat\bin\Debug\ExcelLibrary.dll
+C:\Users\SOPORTE2\source\repos\WebapiSunat\WebapiSunat\obj\Debug\WebapiSunat.csprojAssemblyReference.cache
+C:\Users\SOPORTE2\Desktop\WebapiSunat\WebapiSunat\WebapiSunat\bin\Debug\WebapiSunat.exe.config
+C:\Users\SOPORTE2\Desktop\WebapiSunat\WebapiSunat\WebapiSunat\bin\Debug\WebapiSunat.exe
+C:\Users\SOPORTE2\Desktop\WebapiSunat\WebapiSunat\WebapiSunat\bin\Debug\WebapiSunat.pdb
+C:\Users\SOPORTE2\Desktop\WebapiSunat\WebapiSunat\WebapiSunat\bin\Debug\ExcelLibrary.dll
+C:\Users\SOPORTE2\Desktop\WebapiSunat\WebapiSunat\WebapiSunat\bin\Debug\RestSharp.dll
+C:\Users\SOPORTE2\Desktop\WebapiSunat\WebapiSunat\WebapiSunat\bin\Debug\RestSharp.xml
+C:\Users\SOPORTE2\Desktop\WebapiSunat\WebapiSunat\WebapiSunat\obj\Debug\WebapiSunat.frmValidarDocumentoSunat.resources
+C:\Users\SOPORTE2\Desktop\WebapiSunat\WebapiSunat\WebapiSunat\obj\Debug\WebapiSunat.Properties.Resources.resources
+C:\Users\SOPORTE2\Desktop\WebapiSunat\WebapiSunat\WebapiSunat\obj\Debug\WebapiSunat.csproj.GenerateResource.cache
+C:\Users\SOPORTE2\Desktop\WebapiSunat\WebapiSunat\WebapiSunat\obj\Debug\WebapiSunat.csproj.CopyComplete
+C:\Users\SOPORTE2\Desktop\WebapiSunat\WebapiSunat\WebapiSunat\obj\Debug\WebapiSunat.exe
+C:\Users\SOPORTE2\Desktop\WebapiSunat\WebapiSunat\WebapiSunat\obj\Debug\WebapiSunat.pdb
+C:\Users\SOPORTE2\Desktop\WebapiSunat02\WebapiSunat\WebapiSunat\bin\Debug\WebapiSunat.exe.config
+C:\Users\SOPORTE2\Desktop\WebapiSunat02\WebapiSunat\WebapiSunat\bin\Debug\WebapiSunat.exe
+C:\Users\SOPORTE2\Desktop\WebapiSunat02\WebapiSunat\WebapiSunat\bin\Debug\WebapiSunat.pdb
+C:\Users\SOPORTE2\Desktop\WebapiSunat02\WebapiSunat\WebapiSunat\bin\Debug\ExcelLibrary.dll
+C:\Users\SOPORTE2\Desktop\WebapiSunat02\WebapiSunat\WebapiSunat\bin\Debug\RestSharp.dll
+C:\Users\SOPORTE2\Desktop\WebapiSunat02\WebapiSunat\WebapiSunat\bin\Debug\RestSharp.xml
+C:\Users\SOPORTE2\Desktop\WebapiSunat02\WebapiSunat\WebapiSunat\obj\Debug\WebapiSunat.csprojAssemblyReference.cache
+C:\Users\SOPORTE2\Desktop\WebapiSunat02\WebapiSunat\WebapiSunat\obj\Debug\WebapiSunat.frmValidarDocumentoSunat.resources
+C:\Users\SOPORTE2\Desktop\WebapiSunat02\WebapiSunat\WebapiSunat\obj\Debug\WebapiSunat.Properties.Resources.resources
+C:\Users\SOPORTE2\Desktop\WebapiSunat02\WebapiSunat\WebapiSunat\obj\Debug\WebapiSunat.csproj.GenerateResource.cache
+C:\Users\SOPORTE2\Desktop\WebapiSunat02\WebapiSunat\WebapiSunat\obj\Debug\WebapiSunat.csproj.CopyComplete
+C:\Users\SOPORTE2\Desktop\WebapiSunat02\WebapiSunat\WebapiSunat\obj\Debug\WebapiSunat.exe
+C:\Users\SOPORTE2\Desktop\WebapiSunat02\WebapiSunat\WebapiSunat\obj\Debug\WebapiSunat.pdb
+D:\OneDrive - Universidad Privada del Norte\Proyectos .NET\WebapiSunat\WebapiSunat\bin\Debug\WebapiSunat.exe.config
+D:\OneDrive - Universidad Privada del Norte\Proyectos .NET\WebapiSunat\WebapiSunat\bin\Debug\WebapiSunat.exe
+D:\OneDrive - Universidad Privada del Norte\Proyectos .NET\WebapiSunat\WebapiSunat\bin\Debug\WebapiSunat.pdb
+D:\OneDrive - Universidad Privada del Norte\Proyectos .NET\WebapiSunat\WebapiSunat\bin\Debug\RestSharp.dll
+D:\OneDrive - Universidad Privada del Norte\Proyectos .NET\WebapiSunat\WebapiSunat\bin\Debug\RestSharp.xml
+D:\OneDrive - Universidad Privada del Norte\Proyectos .NET\WebapiSunat\WebapiSunat\obj\Debug\WebapiSunat.csprojAssemblyReference.cache
+D:\OneDrive - Universidad Privada del Norte\Proyectos .NET\WebapiSunat\WebapiSunat\obj\Debug\WebapiSunat.frmValidarDocumentoSunat.resources
+D:\OneDrive - Universidad Privada del Norte\Proyectos .NET\WebapiSunat\WebapiSunat\obj\Debug\WebapiSunat.Properties.Resources.resources
+D:\OneDrive - Universidad Privada del Norte\Proyectos .NET\WebapiSunat\WebapiSunat\obj\Debug\WebapiSunat.csproj.GenerateResource.cache
+D:\OneDrive - Universidad Privada del Norte\Proyectos .NET\WebapiSunat\WebapiSunat\obj\Debug\WebapiSunat.csproj.CopyComplete
+D:\OneDrive - Universidad Privada del Norte\Proyectos .NET\WebapiSunat\WebapiSunat\obj\Debug\WebapiSunat.exe
+D:\OneDrive - Universidad Privada del Norte\Proyectos .NET\WebapiSunat\WebapiSunat\obj\Debug\WebapiSunat.pdb
